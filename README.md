@@ -7,7 +7,7 @@
 <h3 align="center">Programmer from India</h3>
 
 
-- 🌱 I’m currently learning - **Machine Learning, Competitive Programming, Front-End Web-Development**
+- 🌱 I’m currently learning - **Machine Learning, Competitive Programming**
 
 - 👯 I’m looking to collaborate on Front-End Web Development Projects
 
