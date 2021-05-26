@@ -7,11 +7,11 @@
 <h3 align="center">Programmer from India</h3>
 
 
-- 🌱 I’m currently learning - **Machine Learning, Programming**
+- 🌱 I’m currently learning - **Machine Learning, Programming, Web Development**
 
-- 👯 I’m looking to collaborate on Front-End Web Development Projects
+- 👯 I’m looking to collaborate on Web Development Projects
 
-- 🤔 I’m looking for help with Machine Learning
+- 🤔 I’m looking for help with Blockchain
 
 - 💬 Ask me about .... Don't overthink, just ask me! 
 
