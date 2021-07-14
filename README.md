@@ -3,6 +3,7 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathiresan07&label=Profile%20views&color=0e75b6&style=flat" alt="kathiresan07" /> </p>
 <h1 align="center">Hi 👋, I'm Tanmay Vyas</h1>
 <h3 align="center">Programmer from India</h3>
 
