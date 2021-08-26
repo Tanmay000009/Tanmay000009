@@ -11,11 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanmay000009&label=Profile%20views&color=0e75b6&style=flat" alt="Tanmay000009" /> </p>
 
-- 🌱 I’m currently learning - **Machine Learning, Programming, Web Development**
+- 🌱 I’m currently learning - **Docker, Java, Web Development**
 
 - 👯 I’m looking to collaborate on Web Development Projects
 
-- 🤔 I’m looking for help with Blockchain
+- 🤔 I’m looking for help with Rust
 
 - 💬 Ask me about .... Don't overthink, just ask me! 
 
