@@ -17,13 +17,11 @@
 
 - 🤔 I’m looking for help with Rust
 
-- 💬 Ask me about .... Don't overthink, just ask me! 
+- 💬 Ask me about .... Backend Web Develoment 
 
 - 📫 How to reach me: **tanmayvyas09@gmail.com**
 
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I am an Ambivert
+- ⚡ Fun fact: Ready to discuss about anything tech and new ideas 24*7
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
