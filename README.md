@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on Web Development Projects
 
-- 🤔 I’m looking for help with Rust
+- 🤔 I’m looking for help with **Rust**
 
 - 💬 Ask me about .... Backend Web Develoment 
 
