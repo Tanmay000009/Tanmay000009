@@ -48,11 +48,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=Tanmay000009&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay000009&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay000009&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanmay000009&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
-  </td>
-  </tr>
 </table>
 
 # Productivity Stats📈:
