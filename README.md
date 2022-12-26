@@ -1,9 +1,3 @@
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
-
-
 <h1 align="center">Hi 👋, I'm Tanmay Vyas</h1>
 <h3 align="center">Programmer from India</h3>
 
