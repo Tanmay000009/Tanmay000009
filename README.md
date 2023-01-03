@@ -18,7 +18,7 @@
 <h1> Projects I am currently working/worked on </h1>
 
 - [VinHack Landing Page](https://vinhack.vinnovateit.com/) | Working as frontend-developer
-- [TOP Landing Page](https://www.theopportunitiesportal.com/) | Working as frontend-developer
+- Shshh! Secret for now | Working as frontend-developer
 - TOP Server | Working as backend-developer
 - WKND Server | Working as backend-developer
 
