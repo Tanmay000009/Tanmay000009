@@ -14,6 +14,15 @@
 - 📫 How to reach me: **tanmayvyas09@gmail.com**
 
 - ⚡ Fun fact: Ready to discuss about anything tech and new ideas 24*7
+<br>
+<h1> Projects I am currently working/worked on </h1>
 
+- [VinHack Landing Page](https://vinhack.vinnovateit.com/) | Working as frontend-developer
+- [TOP Landing Page](https://www.theopportunitiesportal.com/) | Working as frontend-developer
+- TOP Server | Working as backend-developer
+- WKND Server | Working as backend-developer
 
+<h1> Recent Projects </h1>
 
+- [Zecar](https://zecar.com/) | Worked as fullstack developer, worked on logic side of next-app
+- MessIt | [android](https://play.google.com/store/apps/details?id=com.vinnovateit.messit) | [iOS](https://apps.apple.com/in/app/messit/id6443450483) | Worked as lead developer
