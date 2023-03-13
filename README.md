@@ -17,12 +17,14 @@
 <br>
 <h1> Projects I am currently working/worked on </h1>
 
-- [VinHack Landing Page](https://vinhack.vinnovateit.com/) | Working as frontend-developer
-- Shshh! Secret for now | Working as frontend-developer
-- TOP Server | Working as backend-developer
+
+- Probe-web | Working as fullstack-developer
 - WKND Server | Working as backend-developer
+- Radio App | Working as fullstack-developer
 
 <h1> Recent Projects </h1>
 
+- [The Opporunities Portal](https://www.theopportunitiesportal.com/) | Worked as frontend-developer
+- [VinHack Landing Page](https://vinhack.vinnovateit.com/) | Worked as frontend-developer
 - [Zecar](https://zecar.com/) | Worked as fullstack developer, worked on logic side of next-app
 - MessIt | [android](https://play.google.com/store/apps/details?id=com.vinnovateit.messit) | [iOS](https://apps.apple.com/in/app/messit/id6443450483) | Worked as lead developer
