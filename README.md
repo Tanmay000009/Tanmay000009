@@ -21,6 +21,7 @@
 - Probe-web | Working as fullstack-developer
 - WKND Server | Working as backend-developer
 - Radio App | Working as fullstack-developer
+- Delfa WebApp + Server | Working as fulstack-developer
 
 <h1> Recent Projects </h1>
 
