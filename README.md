@@ -25,6 +25,7 @@
 
 <h1> Recent Projects </h1>
 
+- [BunkBuddies](https://bunkbuddies.vinnovateit.com/) | Worked as Project lead
 - [The Opporunities Portal](https://www.theopportunitiesportal.com/) | Worked as frontend-developer
 - [VinHack Landing Page](https://vinhack.vinnovateit.com/) | Worked as frontend-developer
 - [Zecar](https://zecar.com/) | Worked as fullstack developer, worked on logic side of next-app
