@@ -18,7 +18,6 @@
 <h1> Projects I am currently working/worked on </h1>
 
 
-- Probe-web | Working as fullstack-developer
 - WKND Server | Working as backend-developer
 - Radio App | Working as fullstack-developer
 - Delfa WebApp + Server | Working as fulstack-developer
