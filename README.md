@@ -9,15 +9,8 @@
 
 - ⚡ Fun fact: Ready to discuss anything tech and new ideas 24*7
 <br>
-<h1> Projects I am currently working/worked on </h1>
 
-
-- WKND Server | Working as backend-developer
-- Airport Project [for Kalburagi Airport] | Working as lead backend-developer
-- Delfa WebApp + Server | Working as full-stack-developer
-- [2 Private projects]
-
-<h1> Recent Collaboration Projects </h1>
+<h1> Projects </h1>
 
 - Autogenie | Worked on optimizing backend server
 - FleetM8 | Worked as Full-Stack Developer
